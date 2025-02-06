@@ -15,6 +15,7 @@ A simple command-line To-Do List application built in Python that allows users t
 🔹 Clone the Repository
 
 git clone https://github.com/xingyue-umich/ToDoListApp.git
+
 cd ToDoListApp
 
 🔹 Run the Application
